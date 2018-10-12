@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eFlow.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>C444393145F9FE6F137AD32C69C2D8900E7780B3</string>
+				<key>dateExpires</key>
+				<string>2019/10/11</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>C444393145F9FE6F137AD32C69C2D8900E7780B3</string>
+						<key>dateExpires</key>
+						<string>2019/10/11</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Alamofire.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>SPM8HJC5T2</string>
+						<key>name</key>
+						<string>锋 江</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>SPM8HJC5T2.com.epi-sky.eFlow</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>SPM8HJC5T2</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>SPM8HJC5T2.com.epi-sky.eFlow</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>eFlow.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>6680688f-4e60-4379-bd08-993e658721f0</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.epi-sky.eFlow</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>SPM8HJC5T2</string>
+				<key>name</key>
+				<string>锋 江</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
