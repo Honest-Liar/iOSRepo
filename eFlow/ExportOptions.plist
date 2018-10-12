@@ -4,14 +4,16 @@
 <dict>
 	<key>compileBitcode</key>
 	<true/>
+	<key>destination</key>
+	<string>export</string>
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://10.210.10.20/apps/eFlow.ipa</string>
+		<string>https://github.com/Honest-Liar/iOSRepo/raw/master/eFlow/eFlow.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://10.210.10.20/image/eflow.57x57.png</string>
+		<string>https://github.com/Honest-Liar/iOSRepo/raw/master/eFlow/eflow.57x57.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://10.210.10.20/image/eflow.512x512.png</string>
+		<string>https://github.com/Honest-Liar/iOSRepo/raw/master/eFlow/eflow.512x512.png</string>
 	</dict>
 	<key>method</key>
 	<string>ad-hoc</string>
